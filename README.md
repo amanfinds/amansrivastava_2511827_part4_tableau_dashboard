@@ -79,12 +79,4 @@ Full narrative is in `outputs/dashboard_story.md`. In short: overall performance
 - The dataset has no pre-2024 history, so "flat year-over-year growth" is observed only across the two available years and cannot be confirmed as a longer-term trend.
 - Return reasons are not captured — the dataset records only whether an order was returned, not why, which limits how directly some return-related recommendations can be acted on without further data collection.
 
-## Screenshots Included
 
-| File | Shows |
-|---|---|
-| `screenshots/full_dashboard.png` | Complete executive dashboard |
-| `screenshots/sales_trend_view.png` | Sales trend chart |
-| `screenshots/regional_performance_view.png` | Regional performance view |
-| `screenshots/category_profitability_view.png` | Category/sub-category profitability |
-| `screenshots/filter_interaction_view.png` | Dashboard with an active filter selection, demonstrating interactivity |
