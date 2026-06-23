@@ -116,8 +116,4 @@ Overall: Total Sales ₹217,017,652 | Total Profit ₹33,306,313 | Overall Profi
 
 **Business interpretation:** This is both a risk and an opportunity. **Risk:** if Technology demand softens, there is no comparably profitable category to absorb the impact, since Furniture and Office Supplies are running thin margins. **Opportunity:** Organic channel is already outperforming paid channels on volume — there may be room to convert some of that organic strength into a more deliberate retention/loyalty program, or alternatively, the heavy reliance on Organic suggests paid channels are underutilized and could be scaled with confidence given Organic's proven demand.
 
-**Recommended action / follow-up question:** Leadership should ask: *"If Technology category demand dropped 15% next year, what would happen to total company profit, and do we have a plan to diversify profit sources before that risk materializes?"*
 
----
-
-*All figures above are computed directly from `dashboard_sales_data.xlsx` (4,200 orders, Jan 2024–Dec 2025) via the calculated fields and aggregations built into `executive_dashboard.twbx`.*
