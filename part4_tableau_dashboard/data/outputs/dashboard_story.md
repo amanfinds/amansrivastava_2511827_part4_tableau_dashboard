@@ -1,7 +1,5 @@
 # Dashboard Story — Retail Executive Dashboard
 
-*A leadership-level narrative, written to connect what the dashboard shows rather than describe each chart in isolation.*
-
 ---
 
 ## Executive Summary
@@ -43,6 +41,4 @@ The flip side of "Technology carries the company" is that **the company has real
 - Return reasons are not captured in the dataset (only a binary returned/not-returned flag) — the dashboard can show *where* returns concentrate but not *why*, which limits how directly Insight 7's recommendation can be acted on without further data collection.
 - Profit and discount figures are net company numbers; the dashboard does not break out fixed vs. variable cost components, so "margin" here reflects what the dataset's `profit` field already nets out, not a full cost-accounting view.
 
-## Suggested Next Analysis
 
-A focused deep-dive on **Furniture returns** (with reason codes, if collected going forward) and a **discount-elasticity test** — deliberately varying discount depth in a controlled way for a subset of products — would convert this dashboard's "what happened" view into a "what should we do next" experiment, directly targeting the two clearest risk areas identified here.
